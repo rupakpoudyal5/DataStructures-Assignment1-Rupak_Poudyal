@@ -49,8 +49,11 @@ This repository contains solutions to **Assignment 1: Data Structures Adventure*
    ```bash
    git clone https://github.com/rupakpoudyal5/DataStructures-Assignment1-Rupak_Poudyal.git
 
-   **Compile java code:**
+2. **Compile java code:**
+   ```bash
 javac Main.java ArtifactVault.java LabyrinthPath.java ScrollStack.java ExplorerQueue.java ClueTree.java
+
 **Run Java Code**
+```bash
 java Main
 
