@@ -1,7 +1,8 @@
 # Data Structures Adventure Assignment
-#Author
-Name: Rupak Poudyal
-Student Id: c0903770
+
+# Author
+   Name: Rupak Poudyal
+   Student Id: c0903770
 
 
 # Overview
@@ -53,7 +54,7 @@ This repository contains solutions to **Assignment 1: Data Structures Adventure*
    ```bash
    javac Main.java ArtifactVault.java LabyrinthPath.java ScrollStack.java ExplorerQueue.java ClueTree.java
 
-**Run Java Code**
-```bash
-java Main
+3. **Run Java Code**
+    ```bash
+    java Main
 
