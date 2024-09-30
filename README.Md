@@ -1,14 +1,14 @@
 # Data Structures Adventure Assignment
-##Author
+#Author
 Name: Rupak Poudyal
 Student Id: c0903770
 
 
-## Overview
+# Overview
 
 This repository contains solutions to **Assignment 1: Data Structures Adventure**, which consists of 5 coding challenges. Each challenge explores different data structures and algorithms, including arrays, linked lists, stacks, queues, and binary trees. The solutions are implemented in Java.
 
-## Challenges
+# Challenges
 
 ### 1. The Array Artifact (ArtifactVault Class)
    - **Description**: A vault to store artifacts using an array, with methods to add, remove, and search for artifacts.
@@ -48,6 +48,7 @@ This repository contains solutions to **Assignment 1: Data Structures Adventure*
    Clone the repository to your local machine using:
    ```bash
    git clone https://github.com/rupakpoudyal5/DataStructures-Assignment1-Rupak_Poudyal.git
+
    **Compile java code:**
 javac Main.java ArtifactVault.java LabyrinthPath.java ScrollStack.java ExplorerQueue.java ClueTree.java
 **Run Java Code**
