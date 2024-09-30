@@ -1,8 +1,8 @@
 # Data Structures Adventure Assignment
 
 # Author
-   Name: Rupak Poudyal
-   Student Id: c0903770
+   **Name:** Rupak Poudyal
+   **Student Id:** c0903770
 
 
 # Overview
