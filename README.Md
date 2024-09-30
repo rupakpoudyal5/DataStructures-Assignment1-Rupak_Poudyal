@@ -51,7 +51,7 @@ This repository contains solutions to **Assignment 1: Data Structures Adventure*
 
 2. **Compile java code:**
    ```bash
-javac Main.java ArtifactVault.java LabyrinthPath.java ScrollStack.java ExplorerQueue.java ClueTree.java
+   javac Main.java ArtifactVault.java LabyrinthPath.java ScrollStack.java ExplorerQueue.java ClueTree.java
 
 **Run Java Code**
 ```bash
